@@ -21,7 +21,7 @@
                 "description": "New message",
                 "required": true,
                 "schema": {
-                  "$ref": "#/definitions/Message"
+                  "$ref": "#/chat/message"
                 }
               }
             ],
